@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{C7EB3E60-330F-44C9-A082-F5159504F142}" SchemaVersion="89">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{C7EB3E60-330F-44C9-A082-F5159504F142}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{C7EB3E60-330F-44C9-A082-F5159504F142}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="scene one" ID="{86AB9D6F-03EF-4A6B-B597-9051636B827C}" ShortID="13190781">
+					<ChildrenList>
+						<Event Name="babyNoises" ID="{08BCE4DC-0260-4892-B5DD-D03EE6C83D5A}"/>
+						<Event Name="oneAmbience" ID="{165BEC4B-4C2A-49B1-85F1-263D9203683C}"/>
+						<Event Name="computerOn" ID="{70DC36F7-976A-4F64-8D80-784DEB5D346F}"/>
+						<Event Name="computerOff" ID="{BFD1A307-AE35-49C1-8075-4B023C0B9A23}"/>
+						<Event Name="cribTaps" ID="{6BA8E9B6-3A75-4E6F-9412-1F59FA6E9326}"/>
+						<Event Name="doorOpen" ID="{48C97CEB-BAF2-4D35-A5FB-36FBE114E14C}"/>
+						<Event Name="doorClose" ID="{B6401531-CC5D-44CB-BD9A-F9286FCD2638}"/>
+						<Event Name="babyFootsteps" ID="{D50FC3A4-3920-4966-96BF-0FE63AD82A69}"/>
+						<Event Name="granpaFootsteps" ID="{55B2B1C9-45FF-409A-836B-1E429D3113BB}"/>
+						<Event Name="lightSwitch" ID="{3659CB4F-941E-4D3C-9B54-259EB568B77C}"/>
+						<Event Name="moSpin" ID="{5F73601F-C46F-40B0-A5F2-FEA8F8A21DEF}"/>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
